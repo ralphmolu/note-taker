@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors 👤
 ### Ralph Molu
-- [GitHub](https://github.com/yourgithub)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- [GitHub](https://github.com/ralphmolu)
+- [LinkedIn](https://www.linkedin.com/in/ralph-molu)
