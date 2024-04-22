@@ -1,6 +1,6 @@
 # Note Taker
 
-Visit [Note Taker](https://ralphmolu.github.io/note-taker/)
+Visit [Note Taker](https://rm-note-taker-799e8776f371.herokuapp.com/)
 
 ## Table of Contents
 - [Description](#description-)
@@ -32,6 +32,7 @@ Note Taker is a simple yet effective web application designed to help busy and p
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Heroku](https://dashboard.heroku.com/)
 
 
 ## License 📄
